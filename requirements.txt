@@ -1,0 +1,7 @@
+jsbeautifier
+requests
+fake-useragent
+bs4
+colorama
+wget
+tabulate
